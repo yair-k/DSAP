@@ -25,7 +25,8 @@ DTAP started as a project for the ENGINEERING 1P13A Class at McMaster as the fir
 
 The following is the typical folder structure of the DTAP project:
 
-```├── DSAP_master.py         # Main program file (GUI and app logic)
+```
+├── DSAP_master.py           # Main program file (GUI and app logic)
 ├── DSAP_minified.py         # Minified version of the main program for deployment
 ├── .env                     # Environment variables for sensitive information (API keys)
 ├── ________.json  			 # Firebase credentials file
@@ -77,8 +78,8 @@ The following is the typical folder structure of the DTAP project:
 
 1.  Clone the repository:
    
-    `git clone https://github.com/your-repo/dtap.git
-    cd dtap` 
+    `git clone https://github.com/yair-k/DSAP
+    cd DSAP` 
     
 2.  Install the required dependencies:
    
